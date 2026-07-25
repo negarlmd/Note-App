@@ -1,7 +1,7 @@
 # 📝 Note App
 
 <p align="center">
-  <img src="./assets/img/preview.png" width="900">
+  <img src="./assets/img/Screenshot.png" width="900">
 </p>
 
 <p align="center">
@@ -18,7 +18,7 @@
 
 ### 🌐 Demo Website
 
-👉 **https://negarlmd.github.io/Note-App/**
+👉 https://negarlmd.github.io/Note-App/
 
 ---
 
